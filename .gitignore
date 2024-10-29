@@ -1,6 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/c
-# Edit at https://www.toptal.com/developers/gitignore?templates=c
-
 ### C ###
 # Prerequisites
 *.d
@@ -52,11 +49,10 @@
 .tmp_versions/
 cmake-build-debug/
 .idea
+.vscode
 CMakeFiles/
 CMakeLists.txt
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# End of https://www.toptal.com/developers/gitignore/api/c

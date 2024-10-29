@@ -1,6 +1,6 @@
 #include <stdio.h>    // for printf function
-#include <limits.h>   // for char, int family constants
-#include <float.h>    // for float family constants
+#include <limits.h>   // for char and int size constants
+#include <float.h>    // for float and double size constants
 
 int main()
 {
