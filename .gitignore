@@ -51,8 +51,9 @@ cmake-build-debug/
 .idea
 .vscode
 CMakeFiles/
-CMakeLists.txt
 modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+000_Archived/
