@@ -51,3 +51,4 @@ Contents is organized on the basis of deepest level of the folder structure.
 ### 110. Basic IO and Syntax
 1. [Hello World](100_The_Foundation/110_Basic_IO_and_Syntax/001_hello_world.cpp) - A simple program that prints "Hello, World!" to the console.
 2. [Predefined Message](100_The_Foundation/110_Basic_IO_and_Syntax/002_predefined_msg.cpp) - A program that prints a predefined message to the console.
+3. [Input and Output](100_The_Foundation/110_Basic_IO_and_Syntax/003_input_output.cpp) - A program that takes user input and prints it to the console.
