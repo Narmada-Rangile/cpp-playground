@@ -53,3 +53,4 @@ Contents is organized on the basis of deepest level of the folder structure.
 3. [Input and Output](100_The_Foundation/110_Basic_IO_and_Syntax/003_input_output.cpp) - A program that takes user input and prints it to the console.
 4. [Sum of Two Numbers](100_The_Foundation/110_Basic_IO_and_Syntax/004_sum.cpp) - A program that takes two numbers as input and prints their sum.
 5. [Temperature Conversion](100_The_Foundation/110_Basic_IO_and_Syntax/005_temp_conversion.cpp) - A program that converts temperature between Celsius and Fahrenheit.
+6. [Length Conversion](100_The_Foundation/110_Basic_IO_and_Syntax/006_len_conversion.cpp) - A program that converts lengths between Meters and Feet.
