@@ -59,3 +59,4 @@ Contents is organized on the basis of deepest level of the folder structure.
 9. [Size of Data Types](100_The_Foundation/110_Basic_IO_and_Syntax/009_size-of_data-types.cpp) - Print the size in bytes of char, short, int, long, long long, float, double, and bool.
 10. [Limits of Data Types](100_The_Foundation/110_Basic_IO_and_Syntax/010_limits_data-types.cpp) - Print the limits of char, short, int, long, long long, float, double, and bool.
 11. [ASCII](100_The_Foundation/110_Basic_IO_and_Syntax/011_ascii.cpp) - Print the ASCII value of a character.
+12. [Simple Interest Calculator](100_The_Foundation/110_Basic_IO_and_Syntax/012_simple_interest_calc.cpp) - Calculate simple interest given principal, rate, and time.
