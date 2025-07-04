@@ -4,6 +4,8 @@ It is not meant to be a complete project,
 but rather a collection of small examples and experiments 
 to enhance my knowledge of c++ programming language.
 
+> **Note:** Notes on C++ programming language are available in the [Resources](Resources/README.md) folder.
+
 ## Folder Structure
 ```folder
 .
@@ -41,7 +43,7 @@ to enhance my knowledge of c++ programming language.
 └── Resources/
     ├── Code_Snippets/
     ├── External_Articles_and_Docs/
-    └── General_Notes/
+    └── Language_Notes/
 ```
 
 ## Contents
