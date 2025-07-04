@@ -55,3 +55,4 @@ Contents is organized on the basis of deepest level of the folder structure.
 5. [Temperature Conversion](100_The_Foundation/110_Basic_IO_and_Syntax/005_temp_conversion.cpp) - A program that converts temperature between Celsius and Fahrenheit.
 6. [Length Conversion](100_The_Foundation/110_Basic_IO_and_Syntax/006_len_conversion.cpp) - A program that converts lengths between Meters and Feet.
 7. [Rectangle Area/Perimeter Calculator](100_The_Foundation/110_Basic_IO_and_Syntax/007_rect_peri_calc.cpp) - A program that takes user input and outputs area and perimeter of rectangle.
+8. [Floating Point Multiplier](100_The_Foundation/110_Basic_IO_and_Syntax/008_floating_pt_multiplier.cpp) - Prompt the user for two floating point numbers and display product.
