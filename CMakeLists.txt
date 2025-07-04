@@ -18,7 +18,6 @@ foreach(PRACTICE_FILE ${PRACTICE_CPP_FILES})
     get_filename_component(TARGET_NAME ${PRACTICE_FILE} NAME_WE)
 
     # Add the executable
-    add_executable(${TARGET_NAME} ${PRACTICE_FILE}
-            100_The_Foundation/110_Basic_IO_and_Syntax/009_size-of_data-types.cpp)
+    add_executable(${TARGET_NAME} ${PRACTICE_FILE})
 endforeach()
 
