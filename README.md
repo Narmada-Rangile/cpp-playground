@@ -7,7 +7,6 @@ to enhance my knowledge of c++ programming language.
 ## Folder Structure
 ```folder
 .
-├── 000_Archived/
 ├── 100_The_Foundation/
 │   ├── 110_Basic_IO_and_Syntax/
 │   ├── 120_Control_Flow_and_Logic/
@@ -53,3 +52,4 @@ Contents is organized on the basis of deepest level of the folder structure.
 2. [Predefined Message](100_The_Foundation/110_Basic_IO_and_Syntax/002_predefined_msg.cpp) - A program that prints a predefined message to the console.
 3. [Input and Output](100_The_Foundation/110_Basic_IO_and_Syntax/003_input_output.cpp) - A program that takes user input and prints it to the console.
 4. [Sum of Two Numbers](100_The_Foundation/110_Basic_IO_and_Syntax/004_sum.cpp) - A program that takes two numbers as input and prints their sum.
+5. [Temperature Conversion](100_The_Foundation/110_Basic_IO_and_Syntax/005_temp_conversion.cpp) - A program that converts temperature between Celsius and Fahrenheit.
