@@ -2,7 +2,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # Name your project (this can be anything)
-project(CppPlayground CXX)
+project(cpp-playground CXX)
 
 # Set the C++ standard you want to use
 set(CMAKE_CXX_STANDARD 17)
@@ -18,6 +18,7 @@ foreach(PRACTICE_FILE ${PRACTICE_CPP_FILES})
     get_filename_component(TARGET_NAME ${PRACTICE_FILE} NAME_WE)
 
     # Add the executable
-    add_executable(${TARGET_NAME} ${PRACTICE_FILE})
+    add_executable(${TARGET_NAME} ${PRACTICE_FILE}
+            100_The_Foundation/110_Basic_IO_and_Syntax/009_size-of_data-types.cpp)
 endforeach()
 
