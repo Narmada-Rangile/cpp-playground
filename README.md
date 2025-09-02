@@ -1,12 +1,16 @@
 # CPP Playground
-This is my personal playground for C++ code snippets. 
-It is not meant to be a complete project, 
-but rather a collection of small examples and experiments 
+
+![Image](progress_card_animated.gif)
+
+This is my personal playground for C++ code snippets.
+It is not meant to be a complete project,
+but rather a collection of small examples and experiments
 to enhance my knowledge of c++ programming language.
 
 > **Note:** Notes on C++ programming language are available in the [Resources](Resources/README.md) folder.
 
 ## Folder Structure
+
 ```folder
 .
 ├── 100_The_Foundation/
