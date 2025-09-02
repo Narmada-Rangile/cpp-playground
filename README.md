@@ -77,7 +77,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 18. [Vowel/Consonant](100_The_Foundation/120_Control_Flow_and_Logic/018_vowel_consonant_checker.cpp) - Check if character is vowel or consonant
 19. [Leap Year](100_The_Foundation/120_Control_Flow_and_Logic/019_leap_year.cpp) - Check if year is leap year
 20. [Basic Login](100_The_Foundation/120_Control_Flow_and_Logic/020_basic_login_system.cpp) - Username/password verification
-21. [Number Guessing Game]() - Guess random number with hints
+21. [Number Guessing Game](100_The_Foundation/120_Control_Flow_and_Logic/021_number_guessing.cpp) - Guess random number with hints
 22. [Print 1 to N]() - Loop to print numbers 1 to N
 23. [Multiplication Table]() - Generate multiplication table
 24. [Factorial]() - Calculate factorial of number

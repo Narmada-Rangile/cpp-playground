@@ -27,7 +27,7 @@
 - [x] 18. **Vowel/Consonant** - Check if character is vowel or consonant
 - [x] 19. **Leap Year** - Check if year is leap year
 - [x] 20. **Basic Login** - Username/password verification
-- [ ] 21. **Number Guessing Game** - Guess random number with hints
+- [x] 21. **Number Guessing Game** - Guess random number with hints
 - [ ] 22. **Print 1 to N** - Loop to print numbers 1 to N
 - [ ] 23. **Multiplication Table** - Generate multiplication table
 - [ ] 24. **Factorial** - Calculate factorial of number
@@ -40,7 +40,7 @@
 - [ ] 31. **Half Pyramid** - Print star pattern in triangle shape
 - [ ] 32. **Full Pyramid** - Print full pyramid star pattern
 - [ ] 33. **Armstrong Number** - Check if number equals sum of digit powers
-- [ ] 34. **Sum Natural Numbers** - Sum aaaaanumbers 1 to N
+- [ ] 34. **Sum Natural Numbers** - Sum numbers 1 to N
 - [ ] 35. **Count Digits** - Count digits in integer
 
 ### ZONE: Functions and Arrays (36-50)
