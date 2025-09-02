@@ -66,4 +66,46 @@ Contents is organized on the basis of deepest level of the folder structure.
 10. [Limits of Data Types](100_The_Foundation/110_Basic_IO_and_Syntax/010_limits_data-types.cpp) - Print the limits of char, short, int, long, long long, float, double, and bool.
 11. [ASCII](100_The_Foundation/110_Basic_IO_and_Syntax/011_ascii.cpp) - Print the ASCII value of a character.
 12. [Simple Interest Calculator](100_The_Foundation/110_Basic_IO_and_Syntax/012_simple_interest_calc.cpp) - Calculate simple interest given principal, rate, and time.
-13. [Integer Overflow Demo](100_The_Foundation/110_Basic_IO_and_Syntax/013_int_overflow.cpp) - Demonstrates integer overflow in C++.
+13. [Integer Overflow Demo](100_The_Foundation/110_Basic_IO_and_Syntax/013_overflow_underflow.cpp) - Demonstrates integer overflow in C++.
+14. [Mixed Arithmetic Display](100_The_Foundation/110_Basic_IO_and_Syntax/014_mixed_arithmetic.cpp) - Perform and display results of arithmetic operations between integer and double.
+15. [Swap Numbers]() - Swap two variables using temp variable
+
+### 120. Control Flow and Logic
+
+16. [Even/Odd Checker]() - Determine if number is even or odd
+17. [Find Largest]() - Find largest of three numbers
+18. [Vowel/Consonant]() - Check if character is vowel or consonant
+19. [Leap Year]() - Check if year is leap year
+20. [Basic Login]() - Username/password verification
+21. [Number Guessing Game]() - Guess random number with hints
+22. [Print 1 to N]() - Loop to print numbers 1 to N
+23. [Multiplication Table]() - Generate multiplication table
+24. [Factorial]() - Calculate factorial of number
+25. [Prime Checker]() - Check if number is prime
+26. [Palindrome Number]() - Check if number reads same forwards/backwards
+27. [Fibonacci Generator]() - Generate Fibonacci sequence
+28. [Calculator]() - Basic calculator using switch-case
+29. [Rock Paper Scissors]() - Game against computer
+30. [CGPA Calculator]() - Calculate grade point average
+31. [Half Pyramid]() - Print star pattern in triangle shape
+32. [Full Pyramid]() - Print full pyramid star pattern
+33. [Armstrong Number]() - Check if number equals sum of digit powers
+34. [Sum Natural Numbers]() - Sum numbers 1 to N
+35. [Count Digits]() - Count digits in integer
+
+### 130. Functions and Basic Data Aggregates
+36. [Swap Function (Pass-by-Value)]() - Demonstrate function scope
+37. [Prime Function]() - Encapsulate prime checking in function
+38. [Array Average]() - Calculate average of array elements
+39. [Array Min/Max]() - Find smallest and largest in array
+40. [Linear Search]() - Search for element in array
+41. [Reverse Array]() - Reverse array elements in-place
+42. [Count Duplicates]() - Count duplicate elements in array
+43. [String to Uppercase]() - Convert C-string to uppercase
+44. [String Trimmer]() - Truncate string to N characters
+45. [Word Counter]() - Count words in C-string
+46. [String Palindrome]() - Check if string is palindrome
+47. [To-Do List]() - Manage tasks with array of strings
+48. [Student Report Card]() - Use parallel arrays for student data
+49. [Contact Book]() - Store names and phone numbers
+50. [Bubble Sort]() - Sort array using bubble sort
