@@ -17,8 +17,8 @@
 - [x] 11. **ASCII Value** - Get character and show ASCII value
 - [x] 12. **Simple Interest** - Calculate simple interest
 - [x] 13. **Integer Overflow Demo** - Show overflow/underflow behavior
-- [ ] 14. **Mixed Type Arithmetic** - Demonstrate int/double operations
-- [ ] 15. **Swap Numbers** - Swap two variables using temp variable
+- [x] 14. **Mixed Type Arithmetic** - Demonstrate int/double operations
+- [x] 15. **Swap Numbers** - Swap two variables using temp variable
 
 ### ZONE: Control Flow and Logic (16-35)
 
@@ -40,7 +40,7 @@
 - [ ] 31. **Half Pyramid** - Print star pattern in triangle shape
 - [ ] 32. **Full Pyramid** - Print full pyramid star pattern
 - [ ] 33. **Armstrong Number** - Check if number equals sum of digit powers
-- [ ] 34. **Sum Natural Numbers** - Sum numbers 1 to N
+- [ ] 34. **Sum Natural Numbers** - Sum aaaaanumbers 1 to N
 - [ ] 35. **Count Digits** - Count digits in integer
 
 ### ZONE: Functions and Arrays (36-50)

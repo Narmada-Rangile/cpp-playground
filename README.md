@@ -68,7 +68,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 12. [Simple Interest Calculator](100_The_Foundation/110_Basic_IO_and_Syntax/012_simple_interest_calc.cpp) - Calculate simple interest given principal, rate, and time.
 13. [Integer Overflow Demo](100_The_Foundation/110_Basic_IO_and_Syntax/013_overflow_underflow.cpp) - Demonstrates integer overflow in C++.
 14. [Mixed Arithmetic Display](100_The_Foundation/110_Basic_IO_and_Syntax/014_mixed_arithmetic.cpp) - Perform and display results of arithmetic operations between integer and double.
-15. [Swap Numbers]() - Swap two variables using temp variable
+15. [Swap Numbers](100_The_Foundation/110_Basic_IO_and_Syntax/015_swapping.cpp) - Swap two variables using temp variable
 
 ### 120. Control Flow and Logic
 
@@ -94,7 +94,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 35. [Count Digits]() - Count digits in integer
 
 ### 130. Functions and Basic Data Aggregates
-36. [Swap Function (Pass-by-Value)]() - Demonstrate function scope
+36. [Function (Pass-by-Value)]() - Demonstrate function scope
 37. [Prime Function]() - Encapsulate prime checking in function
 38. [Array Average]() - Calculate average of array elements
 39. [Array Min/Max]() - Find smallest and largest in array
