@@ -24,7 +24,7 @@
 
 - [x] 16. **Even/Odd Checker** - Determine if number is even or odd
 - [x] 17. **Find Largest** - Find largest of three numbers
-- [ ] 18. **Vowel/Consonant** - Check if character is vowel or consonant
+- [x] 18. **Vowel/Consonant** - Check if character is vowel or consonant
 - [ ] 19. **Leap Year** - Check if year is leap year
 - [ ] 20. **Basic Login** - Username/password verification
 - [ ] 21. **Number Guessing Game** - Guess random number with hints
