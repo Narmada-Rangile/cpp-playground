@@ -36,7 +36,7 @@
 - [x] 27. **Fibonacci Generator** - Generate Fibonacci sequence
 - [x] 28. **Calculator** - Basic calculator using switch-case
 - [x] 29. **Rock Paper Scissors** - Game against computer
-- [ ] 30. **CGPA Calculator** - Calculate grade point average
+- [x] 30. **CGPA Calculator** - Calculate grade point average
 - [ ] 31. **Half Pyramid** - Print star pattern in triangle shape
 - [ ] 32. **Full Pyramid** - Print full pyramid star pattern
 - [ ] 33. **Armstrong Number** - Check if number equals sum of digit powers

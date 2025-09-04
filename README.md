@@ -86,7 +86,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 27. [Fibonacci Generator](100_The_Foundation/120_Control_Flow_and_Logic/027_fibonacci.cpp) - Generate Fibonacci sequence
 28. [Calculator](100_The_Foundation/120_Control_Flow_and_Logic/028_calc_with_switch_case.cpp) - Basic calculator using switch-case
 29. [Rock Paper Scissors](100_The_Foundation/120_Control_Flow_and_Logic/029_rock_paper_scissors.cpp) - Game against computer
-30. [CGPA Calculator]() - Calculate grade point average
+30. [CGPA Calculator](100_The_Foundation/120_Control_Flow_and_Logic/030_cgpa_calc.cpp) - Calculate grade point average
 31. [Half Pyramid]() - Print star pattern in triangle shape
 32. [Full Pyramid]() - Print full pyramid star pattern
 33. [Armstrong Number]() - Check if number equals sum of digit powers
