@@ -84,7 +84,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 25. [Prime Checker](100_The_Foundation/120_Control_Flow_and_Logic/025_check_prime.cpp) - Check if number is prime
 26. [Palindrome Number](100_The_Foundation/120_Control_Flow_and_Logic/026_palindrome.cpp) - Check if number reads same forwards/backwards
 27. [Fibonacci Generator](100_The_Foundation/120_Control_Flow_and_Logic/027_fibonacci.cpp) - Generate Fibonacci sequence
-28. [Calculator]() - Basic calculator using switch-case
+28. [Calculator](100_The_Foundation/120_Control_Flow_and_Logic/028_calc_with_switch_case.cpp) - Basic calculator using switch-case
 29. [Rock Paper Scissors]() - Game against computer
 30. [CGPA Calculator]() - Calculate grade point average
 31. [Half Pyramid]() - Print star pattern in triangle shape

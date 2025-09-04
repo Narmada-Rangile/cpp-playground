@@ -34,7 +34,7 @@
 - [x] 25. **Prime Checker** - Check if number is prime
 - [x] 26. **Palindrome Number** - Check if number reads same forwards/backwards
 - [x] 27. **Fibonacci Generator** - Generate Fibonacci sequence
-- [ ] 28. **Calculator** - Basic calculator using switch-case
+- [x] 28. **Calculator** - Basic calculator using switch-case
 - [ ] 29. **Rock Paper Scissors** - Game against computer
 - [ ] 30. **CGPA Calculator** - Calculate grade point average
 - [ ] 31. **Half Pyramid** - Print star pattern in triangle shape
