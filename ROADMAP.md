@@ -32,7 +32,7 @@
 - [x] 23. **Multiplication Table** - Generate multiplication table
 - [x] 24. **Factorial** - Calculate factorial of number
 - [x] 25. **Prime Checker** - Check if number is prime
-- [ ] 26. **Palindrome Number** - Check if number reads same forwards/backwards
+- [x] 26. **Palindrome Number** - Check if number reads same forwards/backwards
 - [ ] 27. **Fibonacci Generator** - Generate Fibonacci sequence
 - [ ] 28. **Calculator** - Basic calculator using switch-case
 - [ ] 29. **Rock Paper Scissors** - Game against computer
