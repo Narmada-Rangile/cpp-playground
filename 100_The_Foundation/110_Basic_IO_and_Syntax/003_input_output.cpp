@@ -12,7 +12,8 @@ int main()
     std::cout << "Please enter your name: ";
 
     // Read user input from the console
-    std::cin >> input;
+    // std::cin >> input; // will stop at whitespace
+    std::getline(std::cin, input); // read till newline
 
     // Echo the input back to the console
     std::cout << "Hello, " << input << "! Welcome to the program." << std::endl;

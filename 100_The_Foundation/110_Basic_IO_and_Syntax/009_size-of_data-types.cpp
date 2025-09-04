@@ -23,4 +23,6 @@ int main()
     cout << "size of float: " << float_size << endl;
     cout << "size of double: " << double_size << endl;
     cout << "size of bool: " << bool_size << endl;
+
+    return 0;
 }

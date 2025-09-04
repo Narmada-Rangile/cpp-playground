@@ -26,7 +26,7 @@ int main()
         std::cout << "Enter Length in Feet: ";
         std::cin >> feet;
         meter = feet / 3.28;
-        std::cout << feet << " Meters is " << meter << " feet.\n";
+        std::cout << feet << " Feet is " << meter << " Meters.\n";
     }
     else
     {
