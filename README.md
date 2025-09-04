@@ -81,7 +81,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 22. [Print 1 to N](100_The_Foundation/120_Control_Flow_and_Logic/022_print_num_1_to_n.cpp) - Loop to print numbers 1 to N
 23. [Multiplication Table](100_The_Foundation/120_Control_Flow_and_Logic/023_mul_table_gen.cpp) - Generate multiplication table
 24. [Factorial](100_The_Foundation/120_Control_Flow_and_Logic/024_factorial.cpp) - Calculate factorial of number
-25. [Prime Checker]() - Check if number is prime
+25. [Prime Checker](100_The_Foundation/120_Control_Flow_and_Logic/025_check_prime.cpp) - Check if number is prime
 26. [Palindrome Number]() - Check if number reads same forwards/backwards
 27. [Fibonacci Generator]() - Generate Fibonacci sequence
 28. [Calculator]() - Basic calculator using switch-case
