@@ -28,7 +28,7 @@
 - [x] 19. **Leap Year** - Check if year is leap year
 - [x] 20. **Basic Login** - Username/password verification
 - [x] 21. **Number Guessing Game** - Guess random number with hints
-- [ ] 22. **Print 1 to N** - Loop to print numbers 1 to N
+- [x] 22. **Print 1 to N** - Loop to print numbers 1 to N
 - [ ] 23. **Multiplication Table** - Generate multiplication table
 - [ ] 24. **Factorial** - Calculate factorial of number
 - [ ] 25. **Prime Checker** - Check if number is prime
