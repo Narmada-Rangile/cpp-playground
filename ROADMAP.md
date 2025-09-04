@@ -39,9 +39,9 @@
 - [x] 30. **CGPA Calculator** - Calculate grade point average
 - [x] 31. **Half Pyramid** - Print star pattern in triangle shape
 - [x] 32. **Full Pyramid** - Print full pyramid star pattern
-- [ ] 33. **Armstrong Number** - Check if number equals sum of digit powers
+- [x] 33. **Armstrong Number** - Check if number equals sum of digit powers
 - [x] 34. **Sum Natural Numbers** - Sum numbers 1 to N
-- [ ] 35. **Count Digits** - Count digits in integer
+- [x] 35. **Count Digits** - Count digits in integer
 
 ### ZONE: Functions and Arrays (36-50)
 

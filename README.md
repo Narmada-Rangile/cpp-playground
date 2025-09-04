@@ -89,9 +89,9 @@ Contents is organized on the basis of deepest level of the folder structure.
 30. [CGPA Calculator](100_The_Foundation/120_Control_Flow_and_Logic/030_cgpa_calc.cpp) - Calculate grade point average
 31. [Half Pyramid](100_The_Foundation/120_Control_Flow_and_Logic/031_half_pyramid.cpp) - Print star pattern in triangle shape
 32. [Full Pyramid](100_The_Foundation/120_Control_Flow_and_Logic/032_full_pyramid.cpp) - Print full pyramid star pattern
-33. [Armstrong Number](100_The_Foundation/120_Control_Flow_and_Logic/034_sum_till_n.cpp) - Check if number equals sum of digit powers
-34. [Sum Natural Numbers]() - Sum numbers 1 to N
-35. [Count Digits]() - Count digits in integer
+33. [Armstrong Number](100_The_Foundation/120_Control_Flow_and_Logic/033_armstrong_number.cpp) - Check if number equals sum of digit powers
+34. [Sum Natural Numbers](100_The_Foundation/120_Control_Flow_and_Logic/034_sum_till_n.cpp) - Sum numbers 1 to N
+35. [Count Digits](100_The_Foundation/120_Control_Flow_and_Logic/035_count_digits.cpp) - Count digits in integer
 
 ### 130. Functions and Basic Data Aggregates
 36. [Function (Pass-by-Value)]() - Demonstrate function scope
