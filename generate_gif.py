@@ -1,5 +1,4 @@
 import re
-import math
 import io
 from xml.etree import ElementTree as ET
 from PIL import Image, ImageDraw, ImageFont
@@ -8,7 +7,7 @@ import cairosvg
 # --- CONFIGURATION (Simulating game_config.json) ---
 HUNTER_NAME = "DILICALFLAME"
 PROJECT_NAME = "C++ PLAYGROUND"
-ROADMAP_PATH = "roadmap.md"
+ROADMAP_PATH = "ROADMAP.md"
 
 # Asset paths
 ASSET_DIR = "Resources/assets/"
