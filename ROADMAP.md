@@ -30,7 +30,7 @@
 - [x] 21. **Number Guessing Game** - Guess random number with hints
 - [x] 22. **Print 1 to N** - Loop to print numbers 1 to N
 - [x] 23. **Multiplication Table** - Generate multiplication table
-- [ ] 24. **Factorial** - Calculate factorial of number
+- [x] 24. **Factorial** - Calculate factorial of number
 - [ ] 25. **Prime Checker** - Check if number is prime
 - [ ] 26. **Palindrome Number** - Check if number reads same forwards/backwards
 - [ ] 27. **Fibonacci Generator** - Generate Fibonacci sequence
