@@ -53,7 +53,7 @@
 - [x] 41. **Reverse Array** - Reverse array elements in-place
 - [x] 42. **Count Duplicates** - Count duplicate elements in array
 - [x] 43. **String to Uppercase** - Convert C-string to uppercase
-- [ ] 44. **String Trimmer** - Truncate string to N characters
+- [x] 44. **String Trimmer** - Truncate string to N characters
 - [ ] 45. **Word Counter** - Count words in C-string
 - [ ] 46. **String Palindrome** - Check if string is palindrome
 - [ ] 47. **To-Do List** - Manage tasks with array of strings

@@ -102,7 +102,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 41. [Reverse Array](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/041_reverse_array.cpp) - Reverse array elements in-place
 42. [Count Duplicates](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/042_count_duplicates.cpp) - Count duplicate elements in array
 43. [String to Uppercase](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/043_string_to_uppercase.cpp) - Convert C-string to uppercase
-44. [String Trimmer]() - Truncate string to N characters
+44. [String Trimmer](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/044_string_trimmer.cpp) - Truncate string to N characters
 45. [Word Counter]() - Count words in C-string
 46. [String Palindrome]() - Check if string is palindrome
 47. [To-Do List]() - Manage tasks with array of strings
