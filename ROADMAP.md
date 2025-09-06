@@ -56,7 +56,7 @@
 - [x] 44. **String Trimmer** - Truncate string to N characters
 - [x] 45. **Word Counter** - Count words in CPP-string
 - [x] 46. **String Palindrome** - Check if string is palindrome
-- [ ] 47. **To-Do List** - Manage tasks with array of strings
+- [x] 47. **To-Do List** - Manage tasks with array of strings
 - [ ] 48. **Student Report Card** - Use parallel arrays for student data
 - [ ] 49. **Contact Book** - Store names and phone numbers
 - [ ] 50. **Bubble Sort** - Sort array using bubble sort

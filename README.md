@@ -105,7 +105,7 @@ Contents is organized on the basis of deepest level of the folder structure.
 44. [String Trimmer](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/044_string_trimmer.cpp) - Truncate string to N characters
 45. [Word Counter](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/045_word_counter.cpp) - Count words in C-string
 46. [String Palindrome](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/046_string_palindrome.cpp) - Check if string is palindrome
-47. [To-Do List]() - Manage tasks with array of strings
+47. [To-Do List](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/047_todo_list.cpp) - Manage tasks with array of strings
 48. [Student Report Card]() - Use parallel arrays for student data
 49. [Contact Book]() - Store names and phone numbers
 50. [Bubble Sort]() - Sort array using bubble sort
