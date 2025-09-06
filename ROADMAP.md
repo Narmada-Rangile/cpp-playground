@@ -58,7 +58,7 @@
 - [x] 46. **String Palindrome** - Check if string is palindrome
 - [x] 47. **To-Do List** - Manage tasks with array of strings
 - [x] 48. **Student Report Card** - Use parallel arrays for student data
-- [ ] 49. **Contact Book** - Store names and phone numbers
+- [x] 49. **Contact Book** - Store names and phone numbers
 - [ ] 50. **Bubble Sort** - Sort array using bubble sort
 
 ## GATE II: Core Toolkit - Data Structures & Algorithms (51-175)

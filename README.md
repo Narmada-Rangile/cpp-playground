@@ -107,5 +107,5 @@ Contents is organized on the basis of deepest level of the folder structure.
 46. [String Palindrome](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/046_string_palindrome.cpp) - Check if string is palindrome
 47. [To-Do List](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/047_todo_list.cpp) - Manage tasks with array of strings
 48. [Student Report Card](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/048_student_report_card.cpp) - Use parallel arrays for student data
-49. [Contact Book]() - Store names and phone numbers
+49. [Contact Book](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/049_contact_book.cpp) - Store names and phone numbers
 50. [Bubble Sort]() - Sort array using bubble sort
