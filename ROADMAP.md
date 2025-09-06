@@ -48,7 +48,7 @@
 - [x] 36. **Swap Function (Pass-by-Value)** - Demonstrate function scope
 - [x] 37. **Prime Function** - Encapsulate prime checking in function
 - [x] 38. **Array Average** - Calculate average of array elements
-- [ ] 39. **Array Min/Max** - Find smallest and largest in array
+- [x] 39. **Array Min/Max** - Find smallest and largest in array
 - [ ] 40. **Linear Search** - Search for element in array
 - [ ] 41. **Reverse Array** - Reverse array elements in-place
 - [ ] 42. **Count Duplicates** - Count duplicate elements in array
