@@ -1,6 +1,5 @@
 // Count the total number of digits in a given integer.
 
-#include <algorithm>
 #include <iostream>
 #include <cmath>
 using namespace std;
