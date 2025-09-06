@@ -94,9 +94,9 @@ Contents is organized on the basis of deepest level of the folder structure.
 35. [Count Digits](100_The_Foundation/120_Control_Flow_and_Logic/035_count_digits.cpp) - Count digits in integer
 
 ### 130. Functions and Basic Data Aggregates
-36. [Function (Pass-by-Value)]() - Demonstrate function scope
-37. [Prime Function]() - Encapsulate prime checking in function
-38. [Array Average]() - Calculate average of array elements
+36. [Function (Pass-by-Value)](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/036_swapping_by_value.cpp) - Demonstrate function scope
+37. [Prime Function](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/037_prime_checking.cpp) - Encapsulate prime checking in function
+38. [Array Average](100_The_Foundation/130_Functions_and_Basic_Data_Aggregates/038_array_avg.cpp) - Calculate average of array elements
 39. [Array Min/Max]() - Find smallest and largest in array
 40. [Linear Search]() - Search for element in array
 41. [Reverse Array]() - Reverse array elements in-place
