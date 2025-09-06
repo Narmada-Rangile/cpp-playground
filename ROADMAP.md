@@ -52,9 +52,9 @@
 - [x] 40. **Linear Search** - Search for element in array
 - [x] 41. **Reverse Array** - Reverse array elements in-place
 - [x] 42. **Count Duplicates** - Count duplicate elements in array
-- [x] 43. **String to Uppercase** - Convert C-string to uppercase
+- [x] 43. **String to Uppercase** - Convert CPP-string to uppercase
 - [x] 44. **String Trimmer** - Truncate string to N characters
-- [ ] 45. **Word Counter** - Count words in C-string
+- [x] 45. **Word Counter** - Count words in CPP-string
 - [ ] 46. **String Palindrome** - Check if string is palindrome
 - [ ] 47. **To-Do List** - Manage tasks with array of strings
 - [ ] 48. **Student Report Card** - Use parallel arrays for student data
