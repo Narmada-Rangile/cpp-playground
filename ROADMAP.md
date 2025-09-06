@@ -55,7 +55,7 @@
 - [x] 43. **String to Uppercase** - Convert CPP-string to uppercase
 - [x] 44. **String Trimmer** - Truncate string to N characters
 - [x] 45. **Word Counter** - Count words in CPP-string
-- [ ] 46. **String Palindrome** - Check if string is palindrome
+- [x] 46. **String Palindrome** - Check if string is palindrome
 - [ ] 47. **To-Do List** - Manage tasks with array of strings
 - [ ] 48. **Student Report Card** - Use parallel arrays for student data
 - [ ] 49. **Contact Book** - Store names and phone numbers
