@@ -4,62 +4,62 @@
 
 ### ZONE: Basic I/O and Syntax (1-15)
 
-- [x] 1. **Hello World** - Print "Hello, World!" to console
-- [x] 2. **Print Message** - Declare string variable and print its contents
-- [x] 3. **User Input Echo** - Get username and print greeting
-- [x] 4. **Sum Calculator** - Add two user-inputted numbers
-- [x] 5. **Temperature Converter** - Celsius to Fahrenheit conversion
-- [x] 6. **Meter to Feet Converter** - Convert meters to feet
-- [x] 7. **Rectangle Perimeter** - Calculate rectangle perimeter from user input
-- [x] 8. **Float Multiplier** - Multiply two floating-point numbers
-- [x] 9. **Data Type Sizes** - Display sizeof for fundamental types
-- [x] 10. **Integer Limits** - Show max/min values for integer types
-- [x] 11. **ASCII Value** - Get character and show ASCII value
-- [x] 12. **Simple Interest** - Calculate simple interest
-- [x] 13. **Integer Overflow Demo** - Show overflow/underflow behavior
-- [x] 14. **Mixed Type Arithmetic** - Demonstrate int/double operations
-- [x] 15. **Swap Numbers** - Swap two variables using temp variable
+- [ ] 1. **Hello World** - Print "Hello, World!" to console
+- [ ] 2. **Print Message** - Declare string variable and print its contents
+- [ ] 3. **User Input Echo** - Get username and print greeting
+- [ ] 4. **Sum Calculator** - Add two user-inputted numbers
+- [ ] 5. **Temperature Converter** - Celsius to Fahrenheit conversion
+- [ ] 6. **Meter to Feet Converter** - Convert meters to feet
+- [ ] 7. **Rectangle Perimeter** - Calculate rectangle perimeter from user input
+- [ ] 8. **Float Multiplier** - Multiply two floating-point numbers
+- [ ] 9. **Data Type Sizes** - Display sizeof for fundamental types
+- [ ] 10. **Integer Limits** - Show max/min values for integer types
+- [ ] 11. **ASCII Value** - Get character and show ASCII value
+- [ ] 12. **Simple Interest** - Calculate simple interest
+- [ ] 13. **Integer Overflow Demo** - Show overflow/underflow behavior
+- [ ] 14. **Mixed Type Arithmetic** - Demonstrate int/double operations
+- [ ] 15. **Swap Numbers** - Swap two variables using temp variable
 
 ### ZONE: Control Flow and Logic (16-35)
 
-- [x] 16. **Even/Odd Checker** - Determine if number is even or odd
-- [x] 17. **Find Largest** - Find largest of three numbers
-- [x] 18. **Vowel/Consonant** - Check if character is vowel or consonant
-- [x] 19. **Leap Year** - Check if year is leap year
-- [x] 20. **Basic Login** - Username/password verification
-- [x] 21. **Number Guessing Game** - Guess random number with hints
-- [x] 22. **Print 1 to N** - Loop to print numbers 1 to N
-- [x] 23. **Multiplication Table** - Generate multiplication table
-- [x] 24. **Factorial** - Calculate factorial of number
-- [x] 25. **Prime Checker** - Check if number is prime
-- [x] 26. **Palindrome Number** - Check if number reads same forwards/backwards
-- [x] 27. **Fibonacci Generator** - Generate Fibonacci sequence
-- [x] 28. **Calculator** - Basic calculator using switch-case
-- [x] 29. **Rock Paper Scissors** - Game against computer
-- [x] 30. **CGPA Calculator** - Calculate grade point average
-- [x] 31. **Half Pyramid** - Print star pattern in triangle shape
-- [x] 32. **Full Pyramid** - Print full pyramid star pattern
-- [x] 33. **Armstrong Number** - Check if number equals sum of digit powers
-- [x] 34. **Sum Natural Numbers** - Sum numbers 1 to N
-- [x] 35. **Count Digits** - Count digits in integer
+- [ ] 16. **Even/Odd Checker** - Determine if number is even or odd
+- [ ] 17. **Find Largest** - Find largest of three numbers
+- [ ] 18. **Vowel/Consonant** - Check if character is vowel or consonant
+- [ ] 19. **Leap Year** - Check if year is leap year
+- [ ] 20. **Basic Login** - Username/password verification
+- [ ] 21. **Number Guessing Game** - Guess random number with hints
+- [ ] 22. **Print 1 to N** - Loop to print numbers 1 to N
+- [ ] 23. **Multiplication Table** - Generate multiplication table
+- [ ] 24. **Factorial** - Calculate factorial of number
+- [ ] 25. **Prime Checker** - Check if number is prime
+- [ ] 26. **Palindrome Number** - Check if number reads same forwards/backwards
+- [ ] 27. **Fibonacci Generator** - Generate Fibonacci sequence
+- [ ] 28. **Calculator** - Basic calculator using switch-case
+- [ ] 29. **Rock Paper Scissors** - Game against computer
+- [ ] 30. **CGPA Calculator** - Calculate grade point average
+- [ ] 31. **Half Pyramid** - Print star pattern in triangle shape
+- [ ] 32. **Full Pyramid** - Print full pyramid star pattern
+- [ ] 33. **Armstrong Number** - Check if number equals sum of digit powers
+- [ ] 34. **Sum Natural Numbers** - Sum numbers 1 to N
+- [ ] 35. **Count Digits** - Count digits in integer
 
 ### ZONE: Functions and Arrays (36-50)
 
-- [x] 36. **Swap Function (Pass-by-Value)** - Demonstrate function scope
-- [x] 37. **Prime Function** - Encapsulate prime checking in function
-- [x] 38. **Array Average** - Calculate average of array elements
-- [x] 39. **Array Min/Max** - Find smallest and largest in array
-- [x] 40. **Linear Search** - Search for element in array
-- [x] 41. **Reverse Array** - Reverse array elements in-place
-- [x] 42. **Count Duplicates** - Count duplicate elements in array
-- [x] 43. **String to Uppercase** - Convert CPP-string to uppercase
-- [x] 44. **String Trimmer** - Truncate string to N characters
-- [x] 45. **Word Counter** - Count words in CPP-string
-- [x] 46. **String Palindrome** - Check if string is palindrome
-- [x] 47. **To-Do List** - Manage tasks with array of strings
-- [x] 48. **Student Report Card** - Use parallel arrays for student data
-- [x] 49. **Contact Book** - Store names and phone numbers
-- [x] 50. **Bubble Sort** - Sort array using bubble sort
+- [ ] 36. **Swap Function (Pass-by-Value)** - Demonstrate function scope
+- [ ] 37. **Prime Function** - Encapsulate prime checking in function
+- [ ] 38. **Array Average** - Calculate average of array elements
+- [ ] 39. **Array Min/Max** - Find smallest and largest in array
+- [ ] 40. **Linear Search** - Search for element in array
+- [ ] 41. **Reverse Array** - Reverse array elements in-place
+- [ ] 42. **Count Duplicates** - Count duplicate elements in array
+- [ ] 43. **String to Uppercase** - Convert CPP-string to uppercase
+- [ ] 44. **String Trimmer** - Truncate string to N characters
+- [ ] 45. **Word Counter** - Count words in CPP-string
+- [ ] 46. **String Palindrome** - Check if string is palindrome
+- [ ] 47. **To-Do List** - Manage tasks with array of strings
+- [ ] 48. **Student Report Card** - Use parallel arrays for student data
+- [ ] 49. **Contact Book** - Store names and phone numbers
+- [ ] 50. **Bubble Sort** - Sort array using bubble sort
 
 ## GATE II: Core Toolkit - Data Structures & Algorithms (51-175)
 
