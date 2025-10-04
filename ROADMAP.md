@@ -4,10 +4,10 @@
 
 ### ZONE: Basic I/O and Syntax (1-15)
 
-- [ ] 1. **Hello World** - Print "Hello, World!" to console
-- [ ] 2. **Print Message** - Declare string variable and print its contents
-- [ ] 3. **User Input Echo** - Get username and print greeting
-- [ ] 4. **Sum Calculator** - Add two user-inputted numbers
+- [x] 1. **Hello World** - Print "Hello, World!" to console
+- [x] 2. **Print Message** - Declare string variable and print its contents
+- [x] 3. **User Input Echo** - Get username and print greeting
+- [x] 4. **Sum Calculator** - Add two user-inputted numbers
 - [ ] 5. **Temperature Converter** - Celsius to Fahrenheit conversion
 - [ ] 6. **Meter to Feet Converter** - Convert meters to feet
 - [ ] 7. **Rectangle Perimeter** - Calculate rectangle perimeter from user input
@@ -18,7 +18,7 @@
 - [ ] 12. **Simple Interest** - Calculate simple interest
 - [ ] 13. **Integer Overflow Demo** - Show overflow/underflow behavior
 - [ ] 14. **Mixed Type Arithmetic** - Demonstrate int/double operations
-- [ ] 15. **Swap Numbers** - Swap two variables using temp variable
+- [x] 15. **Swap Numbers** - Swap two variables using temp variable
 
 ### ZONE: Control Flow and Logic (16-35)
 
